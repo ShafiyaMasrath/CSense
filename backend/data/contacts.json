@@ -1,0 +1,82 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "champion": "Alice Thompson",
+    "decision_maker": "Robert Vance",
+    "role": "Director of IT",
+    "last_interaction": "2026-06-10",
+    "champion_stability_score": 65
+  },
+  {
+    "customer_id": "CUST-002",
+    "champion": "James Wilson",
+    "decision_maker": "Sarah Connor",
+    "role": "Head of Finance",
+    "last_interaction": "2026-06-20",
+    "champion_stability_score": 40
+  },
+  {
+    "customer_id": "CUST-003",
+    "champion": "Vacant (Previous: Mark Davids)",
+    "decision_maker": "Elizabeth Holmes",
+    "role": "VP Engineering",
+    "last_interaction": "2026-06-25",
+    "champion_stability_score": 10
+  },
+  {
+    "customer_id": "CUST-004",
+    "champion": "Kevin Hart",
+    "decision_maker": "Kevin Hart",
+    "role": "CTO",
+    "last_interaction": "2026-06-05",
+    "champion_stability_score": 95
+  },
+  {
+    "customer_id": "CUST-005",
+    "champion": "Linda Garcia",
+    "decision_maker": "Linda Garcia",
+    "role": "COO",
+    "last_interaction": "2026-05-28",
+    "champion_stability_score": 90
+  },
+  {
+    "customer_id": "CUST-006",
+    "champion": "Thomas Shelby",
+    "decision_maker": "Arthur Shelby",
+    "role": "Operations Manager",
+    "last_interaction": "2026-06-15",
+    "champion_stability_score": 98
+  },
+  {
+    "customer_id": "CUST-007",
+    "champion": "Emma Stone",
+    "decision_maker": "Ryan Gosling",
+    "role": "Marketing Lead",
+    "last_interaction": "2026-06-18",
+    "champion_stability_score": 85
+  },
+  {
+    "customer_id": "CUST-008",
+    "champion": "Steve Rogers",
+    "decision_maker": "Tony Stark",
+    "role": "Chief Architect",
+    "last_interaction": "2026-06-12",
+    "champion_stability_score": 80
+  },
+  {
+    "customer_id": "CUST-009",
+    "champion": "David Miller (New)",
+    "decision_maker": "David Miller",
+    "role": "Product Manager",
+    "last_interaction": "2026-06-22",
+    "champion_stability_score": 30
+  },
+  {
+    "customer_id": "CUST-010",
+    "champion": "Pending Appointment",
+    "decision_maker": "Jessica Day",
+    "role": "Director of Learning",
+    "last_interaction": "2026-06-08",
+    "champion_stability_score": 20
+  }
+]

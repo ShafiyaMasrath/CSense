@@ -1,0 +1,112 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "champion": "Alice Thompson",
+    "champion_email": "alice.thompson@cloudscale.com",
+    "champion_phone": "+1-555-0143",
+    "decision_maker": "Robert Vance",
+    "decision_maker_email": "robert.vance@cloudscale.com",
+    "role": "Director of IT",
+    "last_interaction": "2026-06-10",
+    "champion_stability_score": 65
+  },
+  {
+    "customer_id": "CUST-002",
+    "champion": "James Wilson",
+    "champion_email": "james.wilson@fintechglobal.com",
+    "champion_phone": "+1-555-0281",
+    "decision_maker": "Sarah Connor",
+    "decision_maker_email": "sarah.connor@fintechglobal.com",
+    "role": "Head of Finance",
+    "last_interaction": "2026-06-20",
+    "champion_stability_score": 40
+  },
+  {
+    "customer_id": "CUST-003",
+    "champion": "Vacant (Previous: Mark Davids)",
+    "champion_email": "engineering-team@biohealth.org",
+    "champion_phone": "+1-555-0399",
+    "decision_maker": "Elizabeth Holmes",
+    "decision_maker_email": "e.holmes@biohealth.org",
+    "role": "VP Engineering",
+    "last_interaction": "2026-06-25",
+    "champion_stability_score": 10
+  },
+  {
+    "customer_id": "CUST-004",
+    "champion": "Kevin Hart",
+    "champion_email": "kevin.hart@logicgate.io",
+    "champion_phone": "+1-555-0412",
+    "decision_maker": "Kevin Hart",
+    "decision_maker_email": "kevin.hart@logicgate.io",
+    "role": "CTO",
+    "last_interaction": "2026-06-05",
+    "champion_stability_score": 95
+  },
+  {
+    "customer_id": "CUST-005",
+    "champion": "Linda Garcia",
+    "champion_email": "linda.garcia@urbanmobility.com",
+    "champion_phone": "+1-555-0567",
+    "decision_maker": "Linda Garcia",
+    "decision_maker_email": "linda.garcia@urbanmobility.com",
+    "role": "COO",
+    "last_interaction": "2026-05-28",
+    "champion_stability_score": 90
+  },
+  {
+    "customer_id": "CUST-006",
+    "champion": "Thomas Shelby",
+    "champion_email": "t.shelby@swiftlogistics.co.uk",
+    "champion_phone": "+44-20-7946-0192",
+    "decision_maker": "Arthur Shelby",
+    "decision_maker_email": "a.shelby@swiftlogistics.co.uk",
+    "role": "Operations Manager",
+    "last_interaction": "2026-06-15",
+    "champion_stability_score": 98
+  },
+  {
+    "customer_id": "CUST-007",
+    "champion": "Emma Stone",
+    "champion_email": "emma.stone@apexmarketing.com",
+    "champion_phone": "+1-555-0744",
+    "decision_maker": "Ryan Gosling",
+    "decision_maker_email": "ryan.gosling@apexmarketing.com",
+    "role": "Marketing Lead",
+    "last_interaction": "2026-06-18",
+    "champion_stability_score": 85
+  },
+  {
+    "customer_id": "CUST-008",
+    "champion": "Steve Rogers",
+    "champion_email": "s.rogers@datastream.ai",
+    "champion_phone": "+1-555-0811",
+    "decision_maker": "Tony Stark",
+    "decision_maker_email": "tony@starkindustries.ai",
+    "role": "Chief Architect",
+    "last_interaction": "2026-06-12",
+    "champion_stability_score": 80
+  },
+  {
+    "customer_id": "CUST-009",
+    "champion": "David Miller (New)",
+    "champion_email": "david.miller@retailflow.com",
+    "champion_phone": "+1-555-0923",
+    "decision_maker": "David Miller",
+    "decision_maker_email": "david.miller@retailflow.com",
+    "role": "Product Manager",
+    "last_interaction": "2026-06-22",
+    "champion_stability_score": 30
+  },
+  {
+    "customer_id": "CUST-010",
+    "champion": "Pending Appointment",
+    "champion_email": "hr-routing@edutechpro.edu",
+    "champion_phone": "+1-555-1055",
+    "decision_maker": "Jessica Day",
+    "decision_maker_email": "jessica.day@edutechpro.edu",
+    "role": "Director of Learning",
+    "last_interaction": "2026-06-08",
+    "champion_stability_score": 20
+  }
+]

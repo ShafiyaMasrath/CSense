@@ -1,0 +1,122 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "monthly_active_users": 45,
+    "feature_adoption": {
+      "dashboard": 0.8,
+      "reporting": 0.2,
+      "api": 0.1
+    },
+    "login_frequency": "Weekly",
+    "usage_trend": "-15%",
+    "adoption_score": 40
+  },
+  {
+    "customer_id": "CUST-002",
+    "monthly_active_users": 12,
+    "feature_adoption": {
+      "dashboard": 0.4,
+      "reporting": 0.1,
+      "api": 0.0
+    },
+    "login_frequency": "Monthly",
+    "usage_trend": "-30%",
+    "adoption_score": 25
+  },
+  {
+    "customer_id": "CUST-003",
+    "monthly_active_users": 5,
+    "feature_adoption": {
+      "dashboard": 0.2,
+      "reporting": 0.0,
+      "api": 0.0
+    },
+    "login_frequency": "Rarely",
+    "usage_trend": "-50%",
+    "adoption_score": 10
+  },
+  {
+    "customer_id": "CUST-004",
+    "monthly_active_users": 150,
+    "feature_adoption": {
+      "dashboard": 0.95,
+      "reporting": 0.85,
+      "api": 0.7
+    },
+    "login_frequency": "Daily",
+    "usage_trend": "+5%",
+    "adoption_score": 92
+  },
+  {
+    "customer_id": "CUST-005",
+    "monthly_active_users": 300,
+    "feature_adoption": {
+      "dashboard": 0.9,
+      "reporting": 0.9,
+      "api": 0.8
+    },
+    "login_frequency": "Daily",
+    "usage_trend": "+12%",
+    "adoption_score": 95
+  },
+  {
+    "customer_id": "CUST-006",
+    "monthly_active_users": 500,
+    "feature_adoption": {
+      "dashboard": 0.98,
+      "reporting": 0.95,
+      "api": 0.9
+    },
+    "login_frequency": "Daily",
+    "usage_trend": "+2%",
+    "adoption_score": 98
+  },
+  {
+    "customer_id": "CUST-007",
+    "monthly_active_users": 48,
+    "feature_adoption": {
+      "dashboard": 0.9,
+      "reporting": 0.8,
+      "api": 0.1
+    },
+    "login_frequency": "Daily",
+    "usage_trend": "+25%",
+    "adoption_score": 85
+  },
+  {
+    "customer_id": "CUST-008",
+    "monthly_active_users": 85,
+    "feature_adoption": {
+      "dashboard": 0.9,
+      "reporting": 0.9,
+      "api": 0.3
+    },
+    "login_frequency": "Daily",
+    "usage_trend": "+18%",
+    "adoption_score": 88
+  },
+  {
+    "customer_id": "CUST-009",
+    "monthly_active_users": 35,
+    "feature_adoption": {
+      "dashboard": 0.7,
+      "reporting": 0.5,
+      "api": 0.1
+    },
+    "login_frequency": "Weekly",
+    "usage_trend": "0%",
+    "adoption_score": 60
+  },
+  {
+    "customer_id": "CUST-010",
+    "monthly_active_users": 60,
+    "feature_adoption": {
+      "dashboard": 0.8,
+      "reporting": 0.4,
+      "api": 0.2
+    },
+    "login_frequency": "Weekly",
+    "usage_trend": "-5%",
+    "adoption_score": 55
+  }
+]

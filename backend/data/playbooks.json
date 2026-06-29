@@ -1,0 +1,50 @@
+[
+  {
+    "playbook_id": "PB-CHURN-001",
+    "name": "High Risk Recovery",
+    "trigger": "Health Score < 30",
+    "steps": [
+      "Escalate to CSM Lead",
+      "Request Executive Sponsor outreach",
+      "Offer 1-month platform credit",
+      "Schedule feature re-alignment workshop"
+    ],
+    "category": "Churn Prevention"
+  },
+  {
+    "playbook_id": "PB-CHURN-002",
+    "name": "Champion Departure Response",
+    "trigger": "Champion Stability < 40",
+    "steps": [
+      "Identify new key stakeholder",
+      "Send 'New Lead' welcome kit",
+      "Review past value realization with new lead",
+      "Schedule Onboarding 2.0"
+    ],
+    "category": "Churn Prevention"
+  },
+  {
+    "playbook_id": "PB-UPSELL-001",
+    "name": "Expansion Opportunity",
+    "trigger": "Usage Trend > 20% AND Health Score > 75",
+    "steps": [
+      "Identify high-usage features",
+      "Showcase Enterprise module benefits",
+      "Send tiered pricing proposal",
+      "Engage Account Executive for closing"
+    ],
+    "category": "Upsell"
+  },
+  {
+    "playbook_id": "PB-RENEWAL-001",
+    "name": "Standard Renewal",
+    "trigger": "Renewal Date < 90 days",
+    "steps": [
+      "Review usage metrics",
+      "Execute Success Review call",
+      "Verify budget approval",
+      "Process contract renewal"
+    ],
+    "category": "Renewal"
+  }
+]

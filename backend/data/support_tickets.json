@@ -1,0 +1,82 @@
+[
+  {
+    "ticket_id": "TKT-1001",
+    "customer_id": "CUST-001",
+    "priority": "High",
+    "category": "Platform Stability",
+    "status": "Resolved",
+    "resolution_time": "72 hours"
+  },
+  {
+    "ticket_id": "TKT-1002",
+    "customer_id": "CUST-001",
+    "priority": "Urgent",
+    "category": "Data Access",
+    "status": "Open",
+    "resolution_time": "N/A"
+  },
+  {
+    "ticket_id": "TKT-1003",
+    "customer_id": "CUST-002",
+    "priority": "Medium",
+    "category": "Billing Query",
+    "status": "Closed",
+    "resolution_time": "24 hours"
+  },
+  {
+    "ticket_id": "TKT-1004",
+    "customer_id": "CUST-003",
+    "priority": "Urgent",
+    "category": "Security Breach Alert",
+    "status": "In Progress",
+    "resolution_time": "N/A"
+  },
+  {
+    "ticket_id": "TKT-1005",
+    "customer_id": "CUST-003",
+    "priority": "High",
+    "category": "Integrations",
+    "status": "Resolved",
+    "resolution_time": "120 hours"
+  },
+  {
+    "ticket_id": "TKT-1006",
+    "customer_id": "CUST-004",
+    "priority": "Low",
+    "category": "General Inquiry",
+    "status": "Closed",
+    "resolution_time": "2 hours"
+  },
+  {
+    "ticket_id": "TKT-1007",
+    "customer_id": "CUST-005",
+    "priority": "Low",
+    "category": "Feature Request",
+    "status": "Closed",
+    "resolution_time": "48 hours"
+  },
+  {
+    "ticket_id": "TKT-1008",
+    "customer_id": "CUST-006",
+    "priority": "Medium",
+    "category": "API Bug",
+    "status": "Resolved",
+    "resolution_time": "12 hours"
+  },
+  {
+    "ticket_id": "TKT-1009",
+    "customer_id": "CUST-009",
+    "priority": "High",
+    "category": "User Provisioning",
+    "status": "Closed",
+    "resolution_time": "24 hours"
+  },
+  {
+    "ticket_id": "TKT-1010",
+    "customer_id": "CUST-010",
+    "priority": "Medium",
+    "category": "Training Request",
+    "status": "Open",
+    "resolution_time": "N/A"
+  }
+]

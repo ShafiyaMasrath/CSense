@@ -1,0 +1,118 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "history": [
+      {
+        "date": "2026-06-10",
+        "summary": "Quarterly Business Review. Customer expressed frustration with recent downtime and lack of feature updates.",
+        "action_items": ["Send reliability report", "Schedule tech deep dive"],
+        "sentiment": "Negative"
+      },
+      {
+        "date": "2026-05-15",
+        "summary": "Check-in call. User adoption is lagging in the marketing department.",
+        "action_items": ["Prepare training resources"],
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-002",
+    "history": [
+      {
+        "date": "2026-06-20",
+        "summary": "Churn warning call. Procurement is reviewing all SaaS spend. Competitor X mentioned.",
+        "action_items": ["Prepare competitive comparison", "Escalate to Sales Director"],
+        "sentiment": "Very Negative"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-003",
+    "history": [
+      {
+        "date": "2026-06-25",
+        "summary": "Emergency meeting. Champion has left the company. Remaining team is unsure of tool's value.",
+        "action_items": ["Identify new champion", "Onsite workshop request"],
+        "sentiment": "Critical"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-004",
+    "history": [
+      {
+        "date": "2026-06-05",
+        "summary": "Success planning. LogicGate is expanding their usage to the APAC team.",
+        "action_items": ["Provision 50 new seats", "Updated invoice"],
+        "sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-005",
+    "history": [
+      {
+        "date": "2026-05-28",
+        "summary": "Executive touchpoint. CRO is very happy with the dashboarding capabilities.",
+        "action_items": ["Submit for case study approval"],
+        "sentiment": "Very Positive"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-006",
+    "history": [
+      {
+        "date": "2026-06-15",
+        "summary": "Product feedback session. Swift Logistics provided valuable input on the API documentation.",
+        "action_items": ["Route feedback to Product Team"],
+        "sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-007",
+    "history": [
+      {
+        "date": "2026-06-18",
+        "summary": "Expansion discussion. Apex Marketing hitting seat limits consistently.",
+        "action_items": ["Send quote for Enterprise Tier"],
+        "sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-008",
+    "history": [
+      {
+        "date": "2026-06-12",
+        "summary": "New feature preview. Customer interested in AI module.",
+        "action_items": ["Enable trial for AI module"],
+        "sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-009",
+    "history": [
+      {
+        "date": "2026-06-22",
+        "summary": "Stakeholder introduction. Previous champion moved to a new role; introducing David Miller as the new lead.",
+        "action_items": ["Setup onboarding for David", "Share past QBR decks"],
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST-010",
+    "history": [
+      {
+        "date": "2026-06-08",
+        "summary": "Relationship reset. Following the exit of the VP of Operations, we need to re-align with the new leadership.",
+        "action_items": ["Schedule discovery with new VP", "Audit current usage"],
+        "sentiment": "Cautious"
+      }
+    ]
+  }
+]
